@@ -1,4 +1,3 @@
-# mini-rag-project
 ---
 title: Mini RAG Project
 emoji: 💬
