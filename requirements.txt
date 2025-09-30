@@ -1,1 +1,8 @@
+streamlit
 python-dotenv
+qdrant-client
+sentence-transformers
+langchain
+cohere
+groq
+tiktoken
