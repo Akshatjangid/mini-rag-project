@@ -1,3 +1,12 @@
+---
+title: Mini RAG Project
+emoji: 💬
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
 # Mini RAG Q&A Application 💬
 
 This is a Retrieval-Augmented Generation application built for an AI Engineer assessment. It allows users to upload a document and ask questions about its content, receiving answers grounded in the provided text with inline citations.
